@@ -43,6 +43,8 @@ DevLens provides a comprehensive analysis of GitHub repositories, including:
 DevLens combines multiple repository indicators to provide an overall project health score.
 
 The score gives users a quick way to understand the general state and activity of a repository.
+ Helps users, programmers and others to ease their work
+ 
 
 ### Code Quality Analysis
 
